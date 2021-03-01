@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Shujia Huang, a bioinformatician, programmer and human genome researcher from China:
+Hi, I'm Shujia Huang, a bioinformatician, human genome researcher and programmer from China:
 
 - 🔭 I’m currently working at [广州市妇女儿童医疗中心(Guangzhou women and children's medical center)](http://www.gzfezx.com/)
 - 🌱 I’m currently learning Machine learning
