@@ -20,6 +20,6 @@ Hi, I'm Shujia Huang, a bioinformatician, human genome researcher and programmer
 - 💬 Ask me about anything [here](https://github.com/ShujiaHuang/ShujiaHuang/issues)
 - 📫 How to reach me: You can follow my WeChat Official Accounts(微信公众号): [helixminer(碱基矿工)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxOTUxOTM0Nw==&scene=123#wechat_redirect)
 
-![公众号 QR-code](https://static.fungenomics.com/images/2021/10/image-20211028115036846.png)
-
 ![Shujia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShujiaHuang&show_icons=true&theme=onedark)
+
+![公众号 QR-code](https://static.fungenomics.com/images/2021/10/image-20211028115036846.png)
