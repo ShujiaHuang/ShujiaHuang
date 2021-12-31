@@ -22,4 +22,4 @@ Hi, I'm Shujia Huang, a bioinformatician, human genome researcher and programmer
 
 ![Shujia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShujiaHuang&show_icons=true&theme=onedark)
 
-<img src="https://static.fungenomics.com/images/2021/12/image-20211231224211910.png" alt="image-20211231224441555" style="zoom:50%;" />
+![公众号QR-Code](https://static.fungenomics.com/images/2021/12/image-20211231224804496.png)
